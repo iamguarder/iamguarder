@@ -1,4 +1,4 @@
-Stack: * — not full knowledge / ^ — try not to use
+Stack: * — weak knowledge / ^ — try not to use
 
 Technologies: OOP^, Web, Desktop, Mobile*, Web3
 Languages: NodeJS, C#, C++, Python^, Go, PHP^, Rust*
